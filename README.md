@@ -1,7 +1,12 @@
 # 👋 Welcome to Flashack
 
 {% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+**flashack** comes from which ?
+
+1. flash back
+2. flash ack ( nak, syn ... )
+3. slash( / ) hack
+4. back slash ( \ )
 {% endhint %}
 
 ## Overview
