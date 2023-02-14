@@ -4,7 +4,8 @@
 
 ## Overview
 
-* [💡 What we do](overview/what-we-do.md)
+* [💡 Analysis](overview/analysis/README.md)
+  * [Dune](overview/analysis/dune.md)
 * [✨ Our Features](overview/our-features.md)
 
 ## Product Guides
