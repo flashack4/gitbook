@@ -5,8 +5,9 @@
 
 1. flash back
 2. flash ack ( nak, syn ... )
-3. slash( / ) hack
-4. back slash ( \ )
+3. flash bot
+4. slash( / ) hack
+5. back slash ( \ )
 {% endhint %}
 
 ## Overview
