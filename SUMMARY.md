@@ -4,8 +4,9 @@
 
 ## Overview
 
-* [💡 Analysis](overview/analysis/README.md)
+* [📊 Analysis](overview/analysis/README.md)
   * [Dune](overview/analysis/dune.md)
+  * [Phalcon](overview/analysis/phalcon.md)
 * [✨ Our Features](overview/our-features.md)
 
 ## Product Guides

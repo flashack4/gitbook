@@ -1,2 +1,2 @@
-# 💡 Analysis
+# 📊 Analysis
 
