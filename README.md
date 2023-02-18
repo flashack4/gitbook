@@ -51,15 +51,7 @@ Appendices　Slash でできないこと（現状）-> Hackason で検討すべ�
 
 
 
->
->
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
->
->
-
-## Quick links
+## 現状分析と方向性
 
 {% content-ref url="overview/analysis/" %}
 [analysis](overview/analysis/)
