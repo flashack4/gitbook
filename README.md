@@ -17,9 +17,42 @@ description: flshack = slash hack ( Social Hacking , No Code )
 > ・Web3 の知識ゼロ、ライブラリインストール等も一切不要でクリプト決済を導入可能なSlashのAPIをインテグレーションしたウェブサービスの開発。
 >
 > ー From [AKINDO Hackathons listings](https://app.akindo.io/hackathons/4egraox98uVRBXar)&#x20;
+>
+> ー Resouces from [slash-fi docs](https://slash-fi.gitbook.io/docs/integration-guide/integration-guide/standard-integration)
 
-1.
+> ### Hackathonで評価するポイント
+>
+> #### 内容
+>
+> * Slash Web3 Payments の 決済API を インテグレーションしたウェブサービスの開発。
+>
+> #### 評価ポイント : いずれかを満たせば問題ありません
+>
+> * サービス内容とクリプト決済の親和性
+> * サービスの実用性
+>
+> ー From [事前オンライン勉強会・資料](https://slash.notion.site/slash/Astar-Slash-Bounty-Bootcamp-Hackathon-6eb234f0260a4052b81c8fd493d320db#36d66c37a7ac4a3080b5eba15c0ce554)
 
+Appendices　Slash でできないこと（現状）-> Hackason で検討すべきポイント
+
+| 検討項目                                      | 対応可否 |                   |
+| ----------------------------------------- | ---- | ----------------- |
+| クロスチェーンスワップ                               | 不要   |                   |
+| Gasless 決済                                |      |                   |
+| 決済金額の一時的な預かり（決済したら即加盟店に入金される）             | 不要   |                   |
+| 複数トークンをまとめて決済に使う                          | 不要   |                   |
+| Slash.extension を WASM で書く                | 不要   |                   |
+| ERC20 規格のトークン以外での支払い（BTC, SPL規格などでは支払えない） | 必要   | 将来的には、ひｚひｚｙおおうい　  |
+| 返金をサポートする機能はない                            | 不要   |                   |
+| 加盟店受取ウォレットアドレスの自動ローテーション                  | 不要   | Safe Wallet 等にて対応 |
+| Reorg等の対応のための複数回にわたるブロック生成確認              | 不明   | 対応保留              |
+
+基本的に、システム外で対応可能なもの、重要度の低いものは、不要と判断。
+
+
+
+>
+>
 > The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
 >
 > — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
