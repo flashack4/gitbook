@@ -1,28 +1,30 @@
+---
+description: flshack = slash hack ( Social Hacking , No Code )
+---
+
 # 👋 Welcome to Flashack
-
-{% hint style="info" %}
-**flashack** comes from which ?
-
-1. flash back
-2. flash ack ( nak, syn ... )
-3. flash bot
-4. slash( / ) hack
-5. back slash ( \ )
-{% endhint %}
 
 ## Overview
 
-Here are a couple of example overviews from products with really great docs:
+## Astar×Slash Bounty Bootcamp Hackathon
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
+### Integrate Slash Web3 payments into Web2 services
+
+> ### **Description**
 >
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
+> ・Development of a web service that integrates Slash's API that allows crypto payment to be introduced without any knowledge of Web3, library installation, etc.&#x20;
 >
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+> ・Web3 の知識ゼロ、ライブラリインストール等も一切不要でクリプト決済を導入可能なSlashのAPIをインテグレーションしたウェブサービスの開発。
+>
+> ー From [AKINDO Hackathons listings](https://app.akindo.io/hackathons/4egraox98uVRBXar)&#x20;
+
+1.
 
 > The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
 >
 > — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+>
+>
 
 ## Quick links
 
