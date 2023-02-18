@@ -33,7 +33,7 @@ description: flshack = slash hack ( Social Hacking , No Code )
 >
 > ー From [事前オンライン勉強会・資料](https://slash.notion.site/slash/Astar-Slash-Bounty-Bootcamp-Hackathon-6eb234f0260a4052b81c8fd493d320db#36d66c37a7ac4a3080b5eba15c0ce554)
 
-Appendices　Slash でできないこと（現状）-> Hackason で検討すべきポイント
+Appendices ：Slash でできないこと（現状）-> Hackason で検討すべきポイント
 
 | 検討項目                                      | 対応可否 | 備考                |
 | ----------------------------------------- | ---- | ----------------- |
