@@ -17,7 +17,9 @@ Mainnet - Polygon, Ethereum, BSC, Avalanche
 現状、トランザクション数は少なく、Polygon 等 Fee が安く安定した一部 Chain の利用が中心である（ Gass Fee の高騰等による消極的選択ともいえる ）
 
 _同様の理由で、今後 Arbitrum 等への展開が期待される。_\
-_（ Dune では、Arbitrum, Optimism のデータは既に取得可である。ニーズがある ）_
+_（ Dune では、Arbitrum, Optimism のデータは既に取得可である。ニーズがある。Bitcoin も最近データ取得可になっている ）_
+
+
 
 {% embed url="https://dune.com/flashack/slash-goerli" %}
 Goerli testnet
