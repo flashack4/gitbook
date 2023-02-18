@@ -35,7 +35,7 @@ description: flshack = slash hack ( Social Hacking , No Code )
 
 Appendices ：Slash でできないこと（現状）-> Hackason で検討すべきポイント
 
-| 検討項目                                      | 対応可否 | 備考                |
+| 検討項目                                      | 対応要否 | 備考                |
 | ----------------------------------------- | ---- | ----------------- |
 | クロスチェーンスワップ                               | 不要   | プラットフォームを使えばよい    |
 | Gasless 決済                                | 不要   | Fee の安い chain を使用 |
