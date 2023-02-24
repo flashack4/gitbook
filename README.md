@@ -9,6 +9,12 @@ description: flshack = slash hack ( No Code Social Hacking )
 ので、この先読む必要はないです。以下のサイトからテストコイン送ってもらえると嬉しいです。
 
 {% embed url="https://slash-fi.web.app/" %}
+HP
+{% endembed %}
+
+{% embed url="https://flashack.gitbook.io/flashack/" %}
+this gitbook
+{% endembed %}
 
 ## Overview
 
