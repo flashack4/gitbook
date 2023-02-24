@@ -12,10 +12,6 @@ description: flshack = slash hack ( No Code Social Hacking )
 HP
 {% endembed %}
 
-{% embed url="https://flashack.gitbook.io/flashack/" %}
-this gitbook
-{% endembed %}
-
 ## Overview
 
 ## Astar×Slash Bounty Bootcamp Hackathon
