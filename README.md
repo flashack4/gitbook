@@ -1,5 +1,5 @@
 ---
-description: flshack = slash hack ( Social Hacking , No Code, Web2.5 )
+description: flshack = slash hack ( No Code Social Hacking )
 ---
 
 # 👋 Welcome to Flashack
