@@ -4,13 +4,11 @@ description: flshack = slash hack ( No Code Social Hacking )
 
 # 👋 Welcome to Flashack
 
-## 途中でやめて、他のことやってます
+途中でやめて、他のことやってます
 
 ので、この先読む必要はないです。以下のサイトからテストコイン送ってもらえると嬉しいです。
 
 {% embed url="https://slash-fi.web.app/" %}
-HP
-{% endembed %}
 
 ## Overview
 
