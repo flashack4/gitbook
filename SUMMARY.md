@@ -7,6 +7,7 @@
 * [📊 Analysis](overview/analysis/README.md)
   * [Dune](overview/analysis/dune.md)
   * [Phalcon](overview/analysis/phalcon.md)
+  * [My Payments : Google Anarysis & AWS](overview/analysis/my-payments-google-anarysis-and-aws.md)
 * [✨ Our Features](overview/our-features.md)
 
 ## Product Guides
