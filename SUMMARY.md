@@ -7,7 +7,6 @@
 * [📊 Analysis](overview/analysis/README.md)
   * [Dune](overview/analysis/dune.md)
   * [Phalcon](overview/analysis/phalcon.md)
-  * [Page 1](overview/analysis/page-1.md)
   * [Google Analysis & AWS](overview/analysis/google-analysis-and-aws.md)
 * [✨ Our Features](overview/our-features.md)
 
