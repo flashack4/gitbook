@@ -7,7 +7,7 @@
 * [📊 Analysis](overview/analysis/README.md)
   * [Dune](overview/analysis/dune.md)
   * [Phalcon](overview/analysis/phalcon.md)
-  * [Google Anarysis & AWS](overview/analysis/google-anarysis-and-aws.md)
+  * [Google Analysis & AWS](overview/analysis/google-analysis-and-aws.md)
 * [✨ Our Features](overview/our-features.md)
 
 ## Product Guides
