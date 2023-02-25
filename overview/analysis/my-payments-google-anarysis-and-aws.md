@@ -2,7 +2,7 @@
 
 ## Google Analysis ( Firebase )
 
-
+<figure><img src="../../.gitbook/assets/S202302260828.png" alt=""><figcaption></figcaption></figure>
 
 
 
