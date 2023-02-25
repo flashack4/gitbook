@@ -6,7 +6,7 @@ description: flshack = slash hack ( No Code Social Hacking )
 
 ## 途中でやめて、他のことやってます
 
-ので、この先読む必要はないです。以下のサイトからテストコイン送ってもらえると嬉しいです。
+ので、この先読む必要はないです。以下のサイトからテストコインでも送ってもらえると嬉しいです。
 
 {% embed url="https://slash-fi.web.app/" %}
 
